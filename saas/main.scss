@@ -145,7 +145,7 @@ body {
 	}
 
 	.header {
-		background-image: $blue-gradient, url(../img/palm-medium.jpg);
+		background-image: $blue-gradient, url("../img/palm-medium.jpg");
 	}
 
 	&__heading{
